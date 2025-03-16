@@ -9,7 +9,7 @@ Este archivo tiene como objetivo recopilar información sobre los miembros de nu
 | Discord Tag        | Nombre (Opcional) | Rol | Lenguajes y Frameworks | Senority |
 |--------------------|-----------------|---------------|-------------------------|---------------------------------------------|
 | @tabojc | Juan Taborda | Backend       | PHP, Javascript, Node.js           | Intermedio                                  |
-| UsuarioDiscord2#5678 | Nombre Dos      | Frontend      | JavaScript, React, HTML, CSS | Avanzado                                    |
+| u83mm#7574 | Mario Moreno      | Backend      | JavaScript, PHP, HTML5, CSS3, MariaDB, Symfony  | Intermedio                                    |
 | UsuarioDiscord3#9012 | Nombre Tres     | Full Stack    | JavaScript, Node.js, React | Básico                                     |
 | ...                | ...             | ...           | ...                     | ...                                         |
 
